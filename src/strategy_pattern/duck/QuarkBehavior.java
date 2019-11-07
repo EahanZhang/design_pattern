@@ -5,5 +5,5 @@ package strategy_pattern.duck;
  */
 public interface QuarkBehavior {
 
-    public void quark();
+    void quark();
 }
